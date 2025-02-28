@@ -6,3 +6,7 @@ numpy
 joblib
 omegaconf
 catboost
+mlflow
+hydra-core
+lightgbm
+openpyxl
