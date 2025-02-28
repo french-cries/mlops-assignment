@@ -1,3 +1,4 @@
+pyenv==3.10.12
 streamlit
 pycaret==3.3.2
 pandas==1.5.3
@@ -10,4 +11,3 @@ mlflow==2.1.1
 hydra-core==1.3.2
 lightgbm==4.5.0
 openpyxl==3.1.5
-python==3.10
